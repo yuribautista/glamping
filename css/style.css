@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2? family= Ramaraja & family= Roboto+Condensed:ital,wght@0,300;0,400;1,700 & display=swap');
+
+
+body{
+    background:url(https://images.vexels.com/media/users/3/70674/raw/ccf64839ec7367cbfb9ec497a1cd7d15-fondo-de-naturaleza-verde-fresca-con-floritura.jpg);
+    background-size: 100%;
+    
+}
+figure{
+    text-align: center;
+    
+}
+h1{
+   text-align: center; 
+   font-family: 'Lobster', cursive;
+   color: rgba(80, 41, 4, 0.822);
+   font-size: 40px;
+
+}
+p{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+   
+    
+}
+h2{
+    text-align: center;
+    font-family: 'Lobster', cursive;;
+    color: rgb(19, 54, 211);
+}
+
+
+
+.SOCIALES {
+    text-align: center;
+    padding-top:5px;
+    padding-bottom: 40px;
+    width: 100;
+    height: 100;
+}
+nav  {
+    text-align: center;
+    color: brown;
+}
